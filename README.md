@@ -1,1 +1,1 @@
-# proj_insula_anic
+This repository contains analysis scripts for the study, Kwon et al. (2025) "Convergent and selective representations of pain, appetitive processes, aversive processes, and cognitive control in the insula"
